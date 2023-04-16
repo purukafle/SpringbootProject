@@ -1,4 +1,4 @@
-package com.springboot.demo;
+package com.springboot.Runner;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

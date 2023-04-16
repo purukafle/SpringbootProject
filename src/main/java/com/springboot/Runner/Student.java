@@ -1,4 +1,4 @@
-package com.springboot.demo;
+package com.springboot.Runner;
 
 public class Student {
 	private String firstName;

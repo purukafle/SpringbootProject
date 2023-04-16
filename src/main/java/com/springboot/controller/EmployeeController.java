@@ -1,5 +1,7 @@
 package com.springboot.controller;
 
-public class Controller {
+
+
+public class EmployeeController {
 
 }
